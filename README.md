@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luiz Gustavo Retka Darossi</h1>
 
-<img align="right" width="450px" src="./e84617ca70742151120affdfa77ebb2e-1.gif">
+<img align="right" width="400px" src="./e84617ca70742151120affdfa77ebb2e-1.gif">
 
 <!-- ## I'm Luiz Gustavo Retka Darossi! -->
 :computer: Junior web developer
