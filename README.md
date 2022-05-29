@@ -5,7 +5,7 @@
 <!-- ## I'm Luiz Gustavo Retka Darossi! -->
 :computer: Junior web developer
 
-:briefcase: Currently working at Ydeal Tecnologia
+:briefcase: Currently working at Asseinfo
 
 :books: Learning React and Node with Rocketseat's Ignite and GoStack class
 
