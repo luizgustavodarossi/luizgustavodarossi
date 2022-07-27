@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Luiz Gustavo Retka Darossi</h1>
 
-<img align="right" width="400px" src="./e84617ca70742151120affdfa77ebb2e-1.gif">
-[![wakatime](https://wakatime.com/badge/user/bfeb484f-9ae9-47e1-84e4-8b21c4f629b8.svg)](https://wakatime.com/@bfeb484f-9ae9-47e1-84e4-8b21c4f629b8)
+<!-- <img align="right" width="400px" src="./e84617ca70742151120affdfa77ebb2e-1.gif"> -->
+
+<p disabled align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=luizgustavodarossi&label=Profile%20views&color=0e75b6&style=flat" alt="luizgustavodarossi" />
+  <img src="https://wakatime.com/badge/user/bfeb484f-9ae9-47e1-84e4-8b21c4f629b8.svg" alt="luizgustavodarossi" />
+</p>
 
 <!-- ## I'm Luiz Gustavo Retka Darossi! -->
 :computer: Junior web developer
@@ -130,4 +134,4 @@
   </a>
 </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luizgustavodarossi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizgustavodarossi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
