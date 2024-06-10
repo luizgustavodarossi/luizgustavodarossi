@@ -12,8 +12,6 @@
 
 :briefcase: Currently working at Asseinfo
 
-:books: Learning React and Node with Rocketseat's Ignite and GoStack class
-
 ## About me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luizgustavodarossi)](https://github.com/luizgustavodarossi)
