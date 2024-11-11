@@ -28,20 +28,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/>
   </a>
   
-  <a href="#" target="_blank" rel="noreferrer">    
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  
   <a href="#" target="_blank" rel="noreferrer">     
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>    
   </a>
   
   <a href="https://reactjs.org/" target="_blank">     
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
-  
-  <a href="https://nextjs.org/" target="_blank">     
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   </a>
   
   <a href="#" target="_blank" rel="noreferrer">     
@@ -62,10 +54,6 @@
   
   <a href="https://www.php.net" target="_blank">     
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>    
   </a>
   
   <a href="#" target="_blank" rel="noreferrer">     
@@ -90,10 +78,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   </a>
   
-  <a href="#" target="_blank">     
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>   
-  </a>
-  
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">     
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -108,27 +92,6 @@
   
   <a href="https://getbootstrap.com" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-          
-  <a href="https://babeljs.io" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="babel" width="40" height="40"/>
-  </a>
-  
-  <a href="#" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>    
-  </a>
-</p>
-<p align="left">  
-  <a href="#" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>    
-  </a>
-  
-  <a href="#" target="_blank" rel="noreferrer">    
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>    
-  </a>
-  
-  <a href="#" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" alt="composer" width="40" height="40"/>    
   </a>
 </p>
 
