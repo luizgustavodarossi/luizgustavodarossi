@@ -14,7 +14,6 @@
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luizgustavodarossi)](https://github.com/luizgustavodarossi)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-gustavo-retka-darossi-78b207183/)](https://www.linkedin.com/in/luizgustavodarossi/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizgustavodarossi@gmail.com)](mailto:luizgustavodarossi@gmail.com)
 
