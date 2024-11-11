@@ -28,7 +28,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/>
   </a>
   
-  <a href="#" target="_blank" rel="noreferrer">     
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">     
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>    
   </a>
   
@@ -36,7 +36,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   </a>
   
-  <a href="#" target="_blank" rel="noreferrer">     
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer">     
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>    
   </a>
   
@@ -48,7 +48,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" alt="rails" width="40" height="40"/>    
   </a>
   
-  <a href="#" target="_blank" rel="noreferrer"> 
+  <a href="https://rspec.info/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" alt="rspec" width="40" height="40"/>    
   </a>
   
@@ -56,11 +56,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" width="40" height="40"/>
   </a>
   
-  <a href="#" target="_blank" rel="noreferrer">     
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer">     
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
   </a>
  
-  <a href="#" target="_blank">     
+  <a href="https://www.postgresql.org/" target="_blank">     
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40"/>     
   </a>
   
@@ -68,7 +68,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   </a>
   
-  <a href="#" target="_blank" rel="noreferrer">     
+  <a href="https://www.heroku.com/home" target="_blank" rel="noreferrer">     
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>    
   </a>
 </p>
